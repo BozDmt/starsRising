@@ -1,0 +1,27 @@
+{
+  "name": "starsrising",
+  "version": "1.0.0",
+  "description": "Star navigation program",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BozDmt/starsRising.git"
+  },
+  "keywords": [
+    "stars",
+    "navigation",
+    "astronomy"
+  ],
+  "author": "BozDmt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BozDmt/starsRising/issues"
+  },
+  "homepage": "https://github.com/BozDmt/starsRising#readme",
+  "dependencies": {
+    "astronomia": "^4.1.1"
+  }
+}
